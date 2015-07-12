@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BDJobsMonitorDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">When you turn on monitoring service, it will immediately give a notification showing the most recent IT/Telecommunication job from BdJobs.com. Not only that, it will notify you periodically after 15 minutes if any new job has been added . The full process  needs uninterrupted network connection. It is recommed you should use wifi rather than mobile data because this application uses a lot of bandwidth. Absence of internet connection after starting monitor, the monitoring service is not stop at all. It switches to runnable mode. Whenever it gets network, it will eventually start the service automatically. So, until you manually stop the monitoring service, the service is continuous. Remind that, whenever the service is started by you(manually) or network, it immediately shows a notification with the most recent job post. So, it\'s required to be under internet connection while using this service !!!</string>
+
+</resources>
